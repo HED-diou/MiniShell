@@ -1,0 +1,9 @@
+cat <<ok
+cat <<ok""
+ls
+<<ok>
+<<ok <<ok <<k
+<<ok <<ok <<         k
+ls
+$NAJIB $HBJDJDJND $PATH
+ls
