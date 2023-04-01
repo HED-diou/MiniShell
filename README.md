@@ -38,6 +38,6 @@ A few of the functions are "built-in", meaning we don't call the executable, we 
 
 This two-person project was done with [najib37](https://github.com/najib37).
 
-I was responsible for the parsing, argument checking, execution, redirection and piping.
+nramadan for the parsing, argument checking, execution, redirection and piping.
 
-Macrespo took care of the environment variables, built-in functions, and signal handling.
+I took care of the environment variables, built-in functions, and signal handling.
